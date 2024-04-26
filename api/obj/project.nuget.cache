@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "aHxP1hDh7+Sk5lq9d2sbE1p3JS8+M7FNKt5vHSLw4g20qNjImUdzXb1ISe7baLQ9k7rR7aQCMQRw7RDERlmK9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\neoco\\OneDrive\\Documents\\CodeStack\\FullStackL4\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neoco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "C:\\Users\\neoco\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\neoco\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\neoco\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\neoco\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\neoco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\neoco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
